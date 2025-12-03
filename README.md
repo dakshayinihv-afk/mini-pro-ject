@@ -1,2 +1,2 @@
-# mini-pro-ject
-my project
+console.log("hello world");
+
